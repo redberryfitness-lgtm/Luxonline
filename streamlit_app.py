@@ -3,7 +3,6 @@ import pandas as pd
 from datetime import datetime, timedelta
 import os
 from PIL import Image
-import easyocr
 import pytesseract
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
