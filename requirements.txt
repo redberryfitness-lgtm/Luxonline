@@ -5,3 +5,5 @@ Pillow>=10.0
 opencv-python-headless>=4.8
 ccxt>=4.2
 pytesseract>=0.3.10
+plotly>=5.18
+fpdf2>=2.7
